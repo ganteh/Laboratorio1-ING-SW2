@@ -13,4 +13,4 @@ p-plug-in: Submodulo de p-common el cual contiene los tipos de pagos y sus repec
 p-core: Submodulo de p-common el cual tiene la simulación o ejemplos de cada tipo de pagos. Tiene dependencias con p-plug-in
 
 Instrucciones para ejecución:
-Se clona el proyecto, en el proyecto p-core esta el main con la simulación de los pagos y el p-plug-in contiene las pruebas de los tipos de pagos. 
+Se descarga el zip de la rama master el cual contiene el proyecto principal, en el proyecto p-core esta el main con la simulación de los pagos y el p-plug-in contiene las pruebas de los tipos de pagos. 
